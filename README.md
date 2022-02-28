@@ -18,6 +18,9 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/utsav_._gautam/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/utsav_._gautam/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/discord-light.svg)](https://https://discord.com/channels/@me/Demon_Slayer#8600/#gh-light-mode-only)
+[![website](./img/discord-dark.svg)](https://https://discord.com/channels/@me/Demon_Slayer#8600/#gh-dark-mode-only)
 
 ---
 <br/>
