@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to listen a song / exploring new things
 
-https://api.daily.dev/devcards/7fd5c89d0ca043b0b3da24e4dd516110.png?r=nqp
+<a href="https://app.daily.dev/utsav"><img src="https://api.daily.dev/devcards/7fd5c89d0ca043b0b3da24e4dd516110.png?r=nqp" width="400" alt="Utsav Gautam's Dev Card"/></a>
 
 ### Connect with me:
 
