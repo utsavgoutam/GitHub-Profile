@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/utsav"><img src="https://api.daily.dev/devcards/7fd5c89d0ca043b0b3da24e4dd516110.png?r=nqp" width="400" alt="Utsav Gautam's Dev Card"/></a>
+
 # Hello World!, I'm Utsav Gautam 👋 
 
 ## I'm a Full stack developer & part time graphic designer!!
@@ -7,7 +9,6 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to listen a song / exploring new things
 
-<a href="https://app.daily.dev/utsav"><img src="https://api.daily.dev/devcards/7fd5c89d0ca043b0b3da24e4dd516110.png?r=nqp" width="400" alt="Utsav Gautam's Dev Card"/></a>
 
 ### Connect with me:
 
