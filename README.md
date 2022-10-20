@@ -7,6 +7,7 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to listen a song / exploring new things
 
+https://api.daily.dev/devcards/7fd5c89d0ca043b0b3da24e4dd516110.png?r=nqp
 
 ### Connect with me:
 
